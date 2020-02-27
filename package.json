@@ -1,0 +1,14 @@
+{
+  "name": "aws-sns",
+  "version": "1.0.0",
+  "description": "introducao a AWS SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "welingtoncassis",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.622.0"
+  }
+}
